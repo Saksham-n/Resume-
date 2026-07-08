@@ -1,27 +1,18 @@
-***Saksham Neema***
+<h1 align="center">Hi, I'm Saksham👋</h1>
 
-🚀 Computer Science Student @ VIT Bhopal
-💡 Interested in Backend Development & AI/ML
+<p align="center">
+Final Year B.Tech CSE Student @ VIT • Full Stack Developer • Tech Enthusiast
+</p>
 
-🔧 Skills
+---
 
-- Python, Java, SQL
-- FastAPI, REST APIs, Redis
-- Deep Learning, TensorFlow, Keras
+## About Me
 
-📌 Projects
+- 🎓 Final Year B.Tech CSE Student at VIT
+- 💻 Passionate about Full Stack Development
+- ⚡ Interested in AI, Backend Engineering & System Design
+- 🌱 Currently learning Cloud, DevOps & Scalable Architectures
+- 🚀 Building projects that solve real-world problems
 
-AI-Powered Document Analyzer
 
-- Async backend using FastAPI & Celery
-- Integrated Gemini AI for document insights
-
-Brain Tumor Detection (Deep Learning)
-
-- Built CNN, LSTM, Attention models
-- Achieved strong evaluation metrics
-
-📫 Contact
-
-- Email: neema.saksham1@gmail.com
-- GitHub: https://github.com/Saksham-n
+> *"Keep building. Keep learning."*
